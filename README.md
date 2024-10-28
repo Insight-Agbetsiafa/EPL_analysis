@@ -3,11 +3,9 @@ The Jupyter Notebook/Python file includes code for analyzing English Premier Lea
 
 
 # Files
-EPL Analysis.py - Python file containing code for the analysis.
-
-EPL_analysis.ipynb - Jupyter notebook file containing code for the analysis.
-
-EPL_matches.csv and Players.csv are the datasets used to perform the analysis.
+- EPL Analysis.py - Python file containing code for the analysis.
+- EPL_analysis.ipynb - Jupyter notebook file containing code for the analysis.
+-EPL_matches.csv and Players.csv are the datasets used to perform the analysis.
 
 
 # Notes
